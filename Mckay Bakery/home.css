@@ -1,0 +1,135 @@
+body{
+   background-image: url("im.jpg");
+  background-color: #3da4ab;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+
+}
+h1{
+  display: inline-block;
+  color: solid black;
+  }
+  h4{
+    position: absolute;
+    bottom: 20px;
+    left: 600px;
+  }
+#bakery{
+  position: absolute;
+  right: 680px;
+  top:80px;
+}
+#mckays{
+  position: absolute;
+  left : 300px;
+  top: 80px;
+}
+.para{
+  position: relative;
+  left: 300px;
+  width: 60%;
+  bottom: 150px;
+  text-align: justify;
+}
+.para li{
+  display: inline;
+  padding-right:  30px;
+  text-decoration: underline;
+  color: blue;
+}
+#muffin{
+  position: relative;
+  right: 300px;
+  top: 40px;
+  border: 2px solid black;
+}
+#bread{
+  top: 100px;
+}
+#cookies{
+  top: 250px;
+}
+#pastries{
+  top: 400px
+}
+#specially{
+  top : 550px;
+}
+#bread1{
+  top: 220px;
+}
+#cookies1{
+  top: 370px;
+}
+#pastries1{
+  top: 520px
+}
+#specially1{
+
+  top : 670px;
+}
+.navbar-nav > li{
+  padding-left:40px;
+  padding-right:40px;
+  font-size:20px;
+}
+#navbarDropdown{
+  font-size: 20px;
+  text-align: center;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  right: 175px;
+}
+.items{
+  width: 200px;
+  height: 120px;
+  position: absolute;
+  right: 200px;
+  border: 2px solid #f6eec9;
+}
+figcaption{
+  width: 200px;
+  height: 120px;
+  position: absolute;
+  right: 200px;
+  color: solid black;
+}
+.box {
+  text-align:center;
+  width: 60%;
+  height: 550px;
+  padding: 20px;
+  border: 5px solid #a20a0a;
+  margin-left: 100px;
+  margin-top: 20px;
+  background-color: #e6d5b8;
+}
+footer{
+  background-color: #1c2b2d;
+  margin-bottom: 0;
+  color: white;
+  text-align: justify;
+}
+hr{
+  display: block;
+  border-radius: 50%;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 3px;
+}
+footer p{
+  width: 65%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+h5{
+  text-align: center;
+}
